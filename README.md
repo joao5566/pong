@@ -1,5 +1,5 @@
 
-![[Pasted image 20240109010841.png]]
+![Capa do jogo](/Pasted%20image%2020240109010841.png)
 ## Telas do jogo.
 O jogo tem duas a telas
 A primeira e a tela de titulo com dois botoes um escolhe o numero de jogadores e outro começa o jogo 
